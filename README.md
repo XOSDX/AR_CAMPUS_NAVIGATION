@@ -14,7 +14,7 @@ Key Features:
 Interactive AR Navigation: Navigational signs in the form of chevrons, icons which read in English and have been translated in over 100 languages, and simultaneouently spoken directions that change depending on the user’s position.
 
 Technology Stack: 
-Unity 3D in combination with AR Foundation, ARCore/ ARKit and XR Plugin Management.
+Unity 3D in combination with Unity Android Built Support and XR Plugin Management.
 
 Custom Scripts: 
 Such as image tag tracking, navigation and dynamic placing of indicator arrows.
@@ -52,7 +52,7 @@ Unity 3D: Core development platform.
 
 AR Foundation: Programmable AR interface that supports cross-platform application.
 
-XR Plugin Management: For ARCore & ARKit feature.
+XR Plugin Management: For Unity Android Built Support feature.
 
 Programming Languages: C# for scripting.
 
