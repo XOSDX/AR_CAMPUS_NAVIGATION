@@ -1,7 +1,7 @@
 This project focuses on Augmented Reality Campus Navigation Project.
 
 Authors : Dr Graceline Jasmine, Devarya Lakhanpal, Om Subrato Dey, Roshan Naidu, S. Raj Abhinay
-Shool of Computer Science and Engineering
+School of Computer Science and Engineering
 Vellore Institute of Technology Chennai , India
 
 Project Title:
