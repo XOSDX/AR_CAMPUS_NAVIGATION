@@ -46,6 +46,8 @@ Implementation of testing running on IP connections on real devices.
 Final validation test to be done internally in our campuses.
 
 Technologies Used
+Unity Hub 
+Unity Editor [Unity 6000]
 Unity 3D: Core development platform.
 
 AR Foundation: Programmable AR interface that supports cross-platform application.
