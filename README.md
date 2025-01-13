@@ -1,4 +1,4 @@
-##**Augmented Reality Campus Navigation Project.**
+**Augmented Reality Campus Navigation Project.**
 
 This project focuses on Augmented Reality Campus Navigation Project.
 
